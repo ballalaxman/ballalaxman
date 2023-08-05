@@ -12,4 +12,10 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ballalaxman&label=Profile%20Views&color=0&pretty=false)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ballalaxman&count_private=true&theme=tokyonight&showicons=true)]()
+
+
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ballalaxman&langs_count=5&theme=tokyonight)]()
+
