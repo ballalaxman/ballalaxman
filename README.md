@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently workings as Front-End Developer. <br>🌱 I’m currently learning front-end frameworks like React.js and Next.js.<br>💬 Ask me about React JS, Redux, JavaScript, Tailwind CSS<br>
+🔭 I’m currently workings as Front-End Developer. <br>🌱 I’m currently learning mobileapp development with FLUTTER.<br>💬 Ask me about React JS, Redux, JavaScript, Tailwind CSS<br>
 
 
 ## 🌐 Socials:
