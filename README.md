@@ -15,9 +15,9 @@
 
 ### 🚀 About Me
 
-I'm a **Full Stack Developer with 3+ years of experience** building scalable and high-performance web applications, with strong expertise in **React, Next.js, Node.js, and TypeScript**.
+I'm a **Full Stack Developer with 4 years of experience** building scalable and high-performance web applications, with strong expertise in **React, Next.js, Node.js, and TypeScript**.
 
-Over the last 4+ years, I have:
+Over the last 4 years, I have:
 - Built production-ready web applications using React, Next.js, Node.js, and TypeScript
 - Developed real-time features using WebSockets and event-driven architectures
 - Designed and integrated REST and GraphQL APIs with PostgreSQL and MongoDB
